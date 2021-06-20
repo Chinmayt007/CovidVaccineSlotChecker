@@ -1,0 +1,9 @@
+.details{
+  color: white;
+  width: auto;
+  height: 500px;
+  border: 2px solid white;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
